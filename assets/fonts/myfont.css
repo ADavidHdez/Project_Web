@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Comfortaa-Bold";
+    src: url('/fonts/Comfortaa-Bold.ttf') format('arial');
+}
+
+@font-face {
+    font-family: 'Dosis-Bold';
+    src: url('/fonts/Dosis-Bold.ttf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Dosis-Variable';
+    src: url('/fonts/Dosis-VariableFont_wght.ttf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Comfortaa-Variable';
+    src: url('/fonts/Comfortaa-VariableFont_wght') format('opentype');
+}
